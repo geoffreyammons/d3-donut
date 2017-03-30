@@ -5,7 +5,7 @@ I flew around stackoverflow, google, bl.ocks, and everything inbetween trying to
 
 What I decided to do in the end was to start with a clean slate and build the pieces one-by-one. **I have been helped immensely by [juancb](https://bl.ocks.org/juan-cb)'s [bl.ock](http://bl.ocks.org/juan-cb/1984c7f2b446fffeedde) and the [Pie Chart Update series](https://bl.ocks.org/mbostock/1346395) by Mike Bostock.**  
 
-Two of the main goals I wanted to achieve with making this were:
+Two of the main goals I wanted to achieve with making this were:  
 1. **Make the chart [reusable](https://bost.ocks.org/mike/chart/)**. Which, in my opinion, is one of the most important concepts in d3.
 2. Make it **using d3 v4**, as most tutorials I come across are still in d3 v3.
 
