@@ -15,5 +15,7 @@ I worked through the tutorials mentioned above until I understood (pretty much) 
 * I will be very thankful for it in 6 months time.
 * I hope it will help out someone else in my position 3 months ago.
 
+This donut chart has a tooltip that appears in the centre of the donut when the mouse enters a chart slice or hovers over a species name. By making the chart in this reusable fashion I think you should be able to easily tweak any settings to meet your needs. If you do need any help or advise with this those feel free to get in touch.  
+
 **This is my first bl.ock** so please let me know if there are any issues or things I can improve on.  
 I am also working on a dynamic, updating version of this so I will add and link that when it is done.
