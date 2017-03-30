@@ -6,14 +6,14 @@ I flew around stackoverflow, google, bl.ocks, and everything inbetween trying to
 What I decided to do in the end was to start with a clean slate and build the pieces one-by-one. **I have been helped immensely by [juancb](https://bl.ocks.org/juan-cb)'s [bl.ock](http://bl.ocks.org/juan-cb/1984c7f2b446fffeedde) and the [Pie Chart Update series](https://bl.ocks.org/mbostock/1346395) by Mike Bostock.**  
 
 Two of the main goals I wanted to achieve with making this were:  
-1. **Make the chart [reusable](https://bost.ocks.org/mike/chart/)**. Which, in my opinion, is one of the most important concepts in d3.  
-2. Make it **using d3 v4**, as most tutorials I come across are still in d3 v3.
+  1. **Make the chart [reusable](https://bost.ocks.org/mike/chart/)**. Which, in my opinion, is one of the most important concepts in d3.  
+  2. Make it **using d3 v4**, as most tutorials I come across are still in d3 v3.
 
 Going through the process of making a chart reusable really helps in understanding how all the pieces fit together and boosts your understanding of how charts are constructed.  
   
-I worked through the tutorials mentioned above until I understood (pretty much) every line of code. I went to town on the comments because:
-* I will be very thankful for it in 6 months time.
-* I hope it will help out someone else in my position 3 months ago.
+I worked through the tutorials mentioned above until I understood (pretty much) every line of code. I went to town on the comments because:  
+  * I will be very thankful for it in 6 months time.  
+  * I hope it will help out someone else in my position 3 months ago.
 
 This donut chart has a tooltip that appears in the centre of the donut when the mouse enters a chart slice or hovers over a species name. By making the chart in this reusable fashion I think you should be able to easily tweak any settings to meet your needs. If you do need any help or advise with this those feel free to get in touch.  
 
