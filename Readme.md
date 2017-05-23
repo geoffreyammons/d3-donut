@@ -12,6 +12,7 @@ Two of the main goals I wanted to achieve with making this were:
 Going through the process of making a chart reusable really helps in understanding how all the pieces fit together and boosts your understanding of how charts are constructed.  
   
 I worked through the tutorials mentioned above until I understood (pretty much) every line of code. I went to town on the comments because:  
+
   * I will be very thankful for it in 6 months time.  
   * I hope it will help out someone else in my position 3 months ago.  
 
