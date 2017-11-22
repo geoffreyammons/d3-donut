@@ -1,0 +1,23 @@
+{
+  "name": "d3-donut",
+  "version": "0.0.1",
+  "description": "d3 Donut Chart",
+  "keywords": [
+    "d3",
+    "donut"
+  ],
+  "homepage": "https://github.com/geoffreyammons/d3-donut",
+  "license": "MIT",
+  "author": "Michael Hall",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geoffreyammons/d3-donut"
+  },
+  "dependencies": {
+    "d3": "^4.2"
+  },
+  "engines": {
+    "node": ">=4.2.6"
+  }
+}
